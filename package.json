@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rfg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohwhytina/jest-another-RFG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohwhytina/jest-another-RFG/issues"
+  },
+  "homepage": "https://github.com/ohwhytina/jest-another-RFG#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
